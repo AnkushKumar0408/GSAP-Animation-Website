@@ -9,3 +9,5 @@ This project consist many Amazing Effects and Animations.
 I merge locomotive and scrollTrigger together.
 
 I used HTML, CSS and GSAP(Library of JavaScript).
+
+I used images and videos online.
